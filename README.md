@@ -1,2 +1,26 @@
-# Coreflow-framer-template
-CoreFlow – A Serene, Modern Template for Pilates Studios Designed to inspire movement and mindfulness, CoreFlow is a clean, elegant one-page website template perfect for Pilates studios, yoga centers, and wellness spaces. From booking to branding, everything flows effortlessly.
+# [Template Name]
+
+![Banner](https://your-image-url.com/banner.jpg)
+
+A modern and bold Framer template designed for [target audience].
+
+## 🚀 Live Preview
+
+👉 [Click here to preview the template](https://framer.com/projects/your-template-link)
+
+## 🧩 What’s Included
+
+- Fully responsive design
+- Clean animations
+- Custom CMS setup
+- Easy to edit in Framer
+
+## 🔒 Access
+
+This is a **paid template**.  
+Purchase access through [Polar](https://polar.sh/) to unlock the download and future updates.
+
+## 📸 Screenshots
+
+(You can add screenshots or a GIF preview here later)
+
