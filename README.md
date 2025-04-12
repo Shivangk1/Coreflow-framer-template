@@ -1,6 +1,6 @@
 # Coreflow
 
-![Banner](https://your-image-url.com/banner.jpg)
+!16.9 1.jpg
 
 A modern and bold Framer template designed for [target audience].
 
